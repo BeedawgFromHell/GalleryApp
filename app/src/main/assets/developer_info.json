@@ -1,0 +1,26 @@
+{
+  "user": {
+    "first_name": "Bekbol",
+    "photo": "https://sun9-62.userapi.com/impg/csnAutp2wXsqgVkS5d5aahGqdZcJevZetI5KXg/Xt2p8u8-Z0A.jpg?size=961x803&quality=96&sign=16d3e9b435886d39e363f80f6f979b48&type=album",
+    "second_name": "Kasymaly uulu",
+    "education": 2,
+    "company": [
+      {
+        "name": "Ascartec",
+        "position": "ex Android Developer"
+      },
+      {
+        "name": "KSTU",
+        "position": "Graduate"
+      },
+      {
+        "name": "Ascartec",
+        "position": "ex Android Developer"
+      },
+      {
+        "name": "KSTU",
+        "position": "Graduate"
+      }
+    ]
+  }
+}
